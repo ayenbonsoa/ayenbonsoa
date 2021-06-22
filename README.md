@@ -18,8 +18,8 @@ __Université de Paris-Nanterre__
 - CS273 Introduction to Blockchain
 - CS478 Software Development for web and mobile Platforms 
 
-<h2>Currently working on:</h2>
-<h4>Oreonyx-Solutions🔥</h4>
+<h2>Currently working on</h2>
+<h4>Oreonyx-Solutions 🔥</h4>
 
 __Oreonyx-Solutions__ Saas product for Universities. Oreonyx makes their daily lives easier by allowing them to optimize the management of their schedule, their courses and their information while allowing them to view offers and services. 
 
@@ -27,20 +27,16 @@ Check out the GitHub repository:
 
 😞 Sorry : Project currently in private, but soon available in public ...
 
-<h2>🏆 Stats</h2>
+<h2>🏆 Overall GitHub Stats</h2>
 
 <div>
   <p align="center">
-  <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacksamouraii&show_icons=true&theme=synthwave)
-" alt="GitHub Stats" /> <br/><br/>
-  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksamouraii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=blacksamouraii&show_icons=true&count_private=true&bg_color=0D1117&border_radius=0&hide_title=true&text_color=FFF&icon_color=296ECA&" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksamouraii&layout=compact" alt="Top Langs" />
   </p>
 </div>
 
-<h2> About Ayén⚡:</h2>
+<h2> About Ayén⚡</h2>
 
 I am a graduate student living in Lomé, Togo and Neuchâtel, Switzerland. Apart from technology, I like to read, listen to music, play sports and play lots of video games 😂. If you're around Lomé, send an email and let's catch up over a coffee!
  
