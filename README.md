@@ -8,15 +8,14 @@
 
 I'm Ayén Bonsoa ! 
 - <i>Currently:</i> Apprenticeship Data scientist at Sky Switterland . 
-- <i>Currently:</i> CS Student at Boston University (2nd year)
+- <i>Currently:</i> CS Student at  (2nd year)
 - <i>Previously:</i> Bachelor developer Hetic School.
 
 <h2>💻 I'm Currently Learning</h2>
 
-__Université de Paris-Nanterre__
+__Boston University__
 - CS412 Introduction to Machine Learning
 - CS418 Introduction to Data Science
-- CS273 Introduction to Blockchain
 - CS478 Software Development for web and mobile Platforms 
 
 <h2>Currently working on</h2>
