@@ -7,8 +7,9 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=blacksamouraii)](https://github.com/blacksamouraii) [![GitHub followers](https://img.shields.io/github/followers/blacksamouraii.svg?style=social&label=Follow)](https://github.com/blacksamouraii?tab=followers)
 
 I'm Ayén Bonsoa ! 
-- <i>Currently:</i> Data scientist at Sky Switterland . 
-- <i>Previously:</i> MS CS Student at Université de Paris-Nanterre.
+- <i>Currently:</i> Apprenticeship Data scientist at Sky Switterland . 
+- <i>Currently:</i> CS Student at Boston University (2nd year)
+- <i>Previously:</i> Bachelor developer Hetic School.
 
 <h2>💻 I'm Currently Learning</h2>
 
