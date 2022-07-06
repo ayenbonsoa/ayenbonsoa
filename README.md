@@ -11,7 +11,7 @@ I am Ayén Bonsoa web developer keen on new technologies and passionate about ad
 As far as my professional background is concerned, I was trained in Networks & Telecommunications software engineering. I then had the chance to specialize in applied computing and web development. I have been pursuing a course in Data scientism for some time, following certain opportunities that were offered to me, I am currently working on a work-study program in this field. I am always excited to look into web development offers related to web 3.0.
 
 
-📁[Click here to see my CV](https://res.cloudinary.com/shogunmp7/image/upload/v1657104877/personal/CV-AYENBONSOA_mpcpu2.pdf)
+[Click here to see my CV](https://res.cloudinary.com/shogunmp7/image/upload/v1657104877/personal/CV-AYENBONSOA_mpcpu2.pdf)
 
 <h2>🍀My development stack</h2>
 
@@ -29,16 +29,17 @@ As far as my professional background is concerned, I was trained in Networks & T
 👾 On a solution that intends to improve the landscape of the Togolese digital educational universe.\
 👾 On a series of integration of landing pages or case studies skilfully retrieved on Dribbble and Behance.\
 👾 On a series of very relevant blog posts.\
-👾 On my personal branding.\ 
+👾 On my personal branding.
 
 <h2>🍀I'm Currently improving</h2>
 
 🐉 On figma and Photoshop to stonks my design skills.\
 🐉 On the Web 3.0 universe (Cryptos, NFTs, Metaverse) because it is the future.\
-🐉 Matter of expression and communications (Eloquence is important).\
-🐉 On my personal branding.\ 
+🐉 Matter of expression and communications (Eloquence is important).
 
 <h2>🍀How to Reach me</h2>
+
+Always available for a coffee or a game of video games
 
 <a href="mailto:bonsoa.yen@gmail.com">![WriteTo@ayen.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ay%C3%A9n-bonsoa-0924b21b9/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/blacksamouraii)
