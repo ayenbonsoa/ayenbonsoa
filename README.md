@@ -1,4 +1,4 @@
-<img alt="Ayén Bonsoa Banner Image" src="https://res.cloudinary.com/shogunmp7/image/upload/v1625598531/giphy_fufgbn.gif" width="100%">
+<img alt="Ayén Bonsoa Banner Image" src="https://res.cloudinary.com/shogunmp7/image/upload/v1657079593/github-banner_ulwykb.png" width="100%">
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
