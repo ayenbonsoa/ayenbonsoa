@@ -8,9 +8,10 @@
 
 I am Ayén Bonsoa web developer keen on new technologies and passionate about adventure. I am Togolese, born in Lomé the capital, but originally from Niamtougou a city located in the north of the country. “Honor or dishonor is not in the sword, but in the hand that grasps it” - is the motto of the samurai. I am convinced that we are individually responsible for our actions, we forge our journey through our choices that produce and our failures and our successes. I have chosen “blacksamouraii” as a nickname on my networks because I am first of all a black man and then I adhere to this Japanese philosophy of thinking (the bushidō) through the samouraii way of life, which I respect. .
 
-As far as my professional background is concerned, I was trained in Networks & Telecommunications software engineering. I then had the chance to specialize in applied computing and web development. I have been pursuing a course in Data scientism for some time, following certain opportunities that were offered to me, I am currently working on a work-study program in this field. I am always willing to look into web development offers related to web 3.0.
+As far as my professional background is concerned, I was trained in Networks & Telecommunications software engineering. I then had the chance to specialize in applied computing and web development. I have been pursuing a course in Data scientism for some time, following certain opportunities that were offered to me, I am currently working on a work-study program in this field. I am always excited to look into web development offers related to web 3.0.
 
-📁[Click here to see my CV](https://res.cloudinary.com/shogunmp7/image/upload/v1657102640/personal/CV-AYENBONSOA_ximcvr.pdf)
+
+📁[Click here to see my CV](https://res.cloudinary.com/shogunmp7/image/upload/v1657104877/personal/CV-AYENBONSOA_mpcpu2.pdf)
 
 <h2>🍀My development stack</h2>
 
@@ -40,4 +41,4 @@ As far as my professional background is concerned, I was trained in Networks & T
 <h2>🍀How to Reach me</h2>
 
 <a href="mailto:bonsoa.yen@gmail.com">![WriteTo@ayen.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ay%C3%A9n-bonsoa-0924b21b9/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/juniormedehou_/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/blacksamouraii)
