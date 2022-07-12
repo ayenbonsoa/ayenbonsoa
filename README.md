@@ -27,14 +27,14 @@ As far as my professional background is concerned, I was trained in Networks & T
 <h2>🍀I'm Currently working</h2>
 
 👾 On a solution that intends to improve the landscape of the Togolese digital educational universe.\
-👾 On a series of integration of landing pages or case studies skilfully retrieved on Dribbble and Behance.\
+👾 On a series of integration of landing pages or case studies skilfully retrieved from awesome design websites.\
 👾 On a series of very relevant blog posts.\
 👾 On my personal branding.
 
 <h2>🍀I'm Currently improving</h2>
 
 🐉 On figma and Photoshop to stonks my design skills.\
-🐉 On the Web 3.0 universe (Cryptos, NFTs, Metaverse) because it is the future.\
+🐉 On the Web 3.0 universe (Cryptos, NFTs, Metaverse) because it's clearly the future.\
 🐉 Matter of expression and communications (Eloquence is important).
 
 <h2>🍀How to Reach me</h2>
