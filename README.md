@@ -16,8 +16,8 @@ As far as my professional background is concerned, I was trained in Networks & T
 <h2>🍀My development stack</h2>
 
 🐧 **Mobile:** Flutter, Ionic and React Native.\
-🦁 **Web:** React, VueJs, Flutter, Next & Nuxt based on React and VueJs (which offer powerful server-side rendering and abstraction logic, respectively.) and of course Laravel.\
-🐯 **Desktop:** Flutter et Electron.\
+🦁 **Web:** React, VueJs, Next & Nuxt based on React and VueJs (which offer powerful server-side rendering and abstraction logic, respectively.) and of course Laravel.\
+🐯 **Desktop:** Flutter and Electron.\
 🐝 **Hosting:** Vercel, Netlify, Hostinger & GCP\
 🦚 **Text Editor:** VS Code.\
 🐙 **Browser:** Chrome, Firefox and Mint.
