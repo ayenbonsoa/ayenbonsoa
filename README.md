@@ -11,7 +11,7 @@ I am Ayén Bonsoa web developer keen on new technologies and passionate about ad
 As far as my professional background is concerned, I was trained in Networks & Telecommunications software engineering. I then had the chance to specialize in applied computing and web development. I have been pursuing a course in Data scientism for some time, following certain opportunities that were offered to me, I am currently working on a work-study program in this field. I am always excited to look into web development offers related to web 3.0.
 
 
-[Click here to see my CV](https://res.cloudinary.com/shogunmp7/image/upload/v1657104877/personal/CV-AYENBONSOA_mpcpu2.pdf)
+[Click here to see my CV](https://res.cloudinary.com/shogunmp7/image/upload/v1664150483/personal/CV-AYENBONSOA_etlxsy.pdf)
 
 <h2>🍀My development stack</h2>
 
