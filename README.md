@@ -2,13 +2,15 @@
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
-<h2>Yo!👋</h2>
+<h2>Hi!👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=blacksamouraii)](https://github.com/blacksamouraii) [![GitHub followers](https://img.shields.io/github/followers/blacksamouraii.svg?style=?style=flat-square&label=Follow)](https://github.com/blacksamouraii?tab=followers)
 
-I am Ayén Bonsoa web developer keen on new technologies and passionate about adventure. I am Togolese, born in Lomé the capital, but originally from Niamtougou a city located in the north of the country. “Honor or dishonor is not in the sword, but in the hand that grasps it” - is the motto of the samurai. I am convinced that we are individually responsible for our actions, we forge our journey through our choices that produce and our failures and our successes. I have chosen “blacksamouraii” as a nickname on my networks because I am first of all a black man and then I adhere to this Japanese philosophy of thinking (the bushidō) through the samouraii way of life, which I respect. .
+I am Ayén Bonsoa, web developer, fond of new technologies and passionate about adventure. I am Togolese, born in Lome the capital, but native of Niamtougou a city located in the north of the country. "Honor or dishonor is not in the sword, but in the hand that grasps it" - this is the motto of the samurai. I am convinced that we are individually responsible for our actions, we forge our path through our choices that produce both our failures and our successes. I chose "blacksamouraii" as my nickname on my networks because I am first of all a black man and secondly I adhere to this Japanese philosophy of thought (the bushidō) through the samurai way of life, which I respect (but I'm not too hot on the idea of living like them) .
 
-As far as my professional background is concerned, I was trained in Networks & Telecommunications software engineering. I then had the chance to specialize in applied computing and web development. I have been pursuing a course in Data scientism for some time, following certain opportunities that were offered to me, I am currently working on a work-study program in this field. I am always excited to look into web development offers related to web 3.0.
+As far as my professional background is concerned, I was trained in applied computer science with an option in software engineering Networks & Telecommunications. I then had the opportunity to specialize in web development, more precisely on the advanced working techniques standard within the industry. I am available and always enthusiastic to collaborate and study projects related to web development and much more.
+
+Translated with www.DeepL.com/Translator (free version)
 
 <h2>🍀My development stack</h2>
 
