@@ -10,8 +10,6 @@ I am Ayén Bonsoa, web developer, fond of new technologies and passionate about 
 
 As far as my professional background is concerned, I was trained in applied computer science with an option in software engineering Networks & Telecommunications. I then had the opportunity to specialize in web development, more precisely on the advanced working techniques standard within the industry. I am available and always enthusiastic to collaborate and study projects related to web development and much more.
 
-Translated with www.DeepL.com/Translator (free version)
-
 <h2>🍀My development stack</h2>
 
 🐧 **Mobile:** Flutter and React Native.\
