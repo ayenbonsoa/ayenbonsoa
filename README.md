@@ -10,7 +10,7 @@ Hello, I'm Ayén Bonsoa, a web developer with a passion for new technologies and
 🐝 **Hosting:** Vercel, AWS.\
 🦚 **Text Editor:** VS Code, Cursor.\
 🐙 **Browser:** Arc, Firefox.\
-🐯 **Editing:** After Effect, Premier pro.
+🐯 **Editing:** After Effect, Premiere pro.
 
 <h2>I'm Currently working</h2>
 
