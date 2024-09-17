@@ -1,4 +1,4 @@
-<img alt="Ayén Bonsoa Banner Image" src="https://res.cloudinary.com/shogunmp7/image/upload/v1657079593/github-banner_ulwykb.png" width="100%">
+<img alt="Ayén Bonsoa Banner Image" src="https://res.cloudinary.com/shogunmp7/image/upload/v1726572862/g5zvwfz4ze94mpays0e4.png" width="100%">
 
 <h2>Hello !👋</h2>
 
